@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ttranglinh
-- 👀 I’m interested in Analytics and Machine Learning 
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on different projects.
 - Since I'm a newbie, I would love to learn through different resources.
