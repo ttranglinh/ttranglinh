@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttranglinh
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Data Analytics 
+- 🌱 My current major is Business Analytics, and I intend to pursue higher education in Data Science 
 - 💞️ I’m looking to collaborate on different projects.
 - Since I'm a newbie, I would love to learn through different resources.
 <!---
