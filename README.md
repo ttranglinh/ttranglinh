@@ -10,13 +10,9 @@ Let’s explore, learn, and build together! 🚀
 ## Core Skills & Experience 📈
 
 - **SQL & Data Engineering** – Proficient in SQL (PostgreSQL) for data manipulation, pipeline optimisation, and data modelling within data warehouses.
-
 - **Statistical Analysis & Machine Learning** – Skilled in applying statistics for data-driven insights and building ML solutions using Python.
-
 - **Data Visualisation & Storytelling** – Advanced in creating compelling dashboards and reports with Power BI, Tableau, and Looker Studio.
-
 - **Process Automation** – Experienced in streamlining workflows and boosting efficiency with tools like Power Automate.
-
 - **Domain Expertise** – Strong background in Retail, Marketing, CRM, and Finance analytics.
 
 ## Languages and Tools 🛠️
